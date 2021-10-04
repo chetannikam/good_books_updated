@@ -1,0 +1,25 @@
+.App {
+  max-width: 600px;
+  padding: 2px;
+  margin: auto;
+}
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #efefef;
+}
+button {
+  margin: 0.3rem 0.2rem;
+  padding: 0.3rem 0.5rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+}
+
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 70%;
+  border-radius: 0.5rem;
+  margin: 1rem 0rem;
+}
